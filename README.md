@@ -1,2 +1,1 @@
-# Nepali-python
-# python reader 
+ 
